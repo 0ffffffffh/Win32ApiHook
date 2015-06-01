@@ -1,4 +1,5 @@
-﻿
+﻿//2015 - Oguz Kartal
+
 #include <Windows.h>
 
 #include <stdio.h>
