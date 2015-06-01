@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.opensdf
+*.sdf
+/x64
+/Release
+/Debug
+/cppdll_release64
+/CppDll/x64/cppdll_release64
+/CppDll/Release
+/CppDll
+/CppWork/Debug
+/CppWork/Release
+/CppWork/x64
+/CppWork/Source.cpp
